@@ -1,7 +1,7 @@
 #Asclepius
-(Updated 7-30-15)
-(v0.4)___________
-Asclepius Planet addon for KSP.
+(Updated 8-5-15)
+(v0.6)___________
+Texture pass
 KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 KerbalStuff download link: http://kerbalstuff.com/mod/1000
 
