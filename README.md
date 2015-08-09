@@ -1,6 +1,6 @@
 #Asclepius
-(Updated 8-5-15)
-(v0.6)___________
+(Updated 8-7-15)
+(v0.75)___________
 Texture pass
 KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 KerbalStuff download link: http://kerbalstuff.com/mod/1000
@@ -35,6 +35,28 @@ CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley (KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515) has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, Asclouds.cfg, ASC_ScienceDefs.cfg, Superplane.craft, celesbod.cfg, and associated images (swirly.png, BiomeMap.png, Height.png, KruelBiome.png, bumpMap.png, Color.png, Normals.png). This work is published from: United States. 
 
 ____________________________________________________________________________________________
+(0.75)____
+(8-8-15)
+Added clouds texture
+
+(0.7)_____
+(8-7-15)
+Fixed "splashed" science definitions.
+Reduced normal map size (still looks great, but uses less memory!)
+"unbundled" Contract Configurator, E.V.E. Clouds, and distant object enhancement in Kerbalstuff download.
+
+(0.6)_______
+Texture pass
+Updated Kopernicus to 0.2.4
+Bundled with: Contract Configurator, E.V.E. clouds, and Distant object enhancement. (licenses included)
+
+(0.5)_________
+(8-1-15)
+Added New_Horizons compatibility patch
+Added DMagic science definitions
+Updated contract configurator contracts
+Changed Mean anomaly of Asclepius (now 120 days until first Asclepius transfer window instead of 2 years)
+Reduced scatter density on Asclepius (Even More FPS!)
 
 (v0.4)___________
 Changelog:
