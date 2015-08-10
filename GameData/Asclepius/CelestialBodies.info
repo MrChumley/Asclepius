@@ -1,0 +1,47 @@
+# This file provides information for other plugins
+# 
+# Syntax:
+#
+#  Celestial-Body-Name
+#  {
+#     [gas giant = true] # optional, default: false
+#     Plugin-Name
+#     {
+#        key = value
+#     }
+#  }
+#
+# Example:
+#
+#  NewKerbin
+#  {
+#     gas giant = false
+#     FinalFrontier
+#     {
+#       ribbon group  = GenericE02
+#       base prestige = 8100
+#     }
+#  }
+#
+
+Asclepius
+{
+   gas giant = false
+   FinalFrontier
+   {
+	ribbon path = Asclepius/Ribbons
+	ribbon group = Asclepius
+	base prestige = 8600
+   }
+}
+
+Kruel
+{
+   gas giant = false
+   FinalFrontier
+   {
+	ribbon path = Asclepius/Ribbons
+	ribbon group = Kruel
+	base prestige = 8800
+   }
+}
