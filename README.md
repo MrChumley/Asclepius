@@ -1,7 +1,7 @@
 #Asclepius
-(Updated 8-7-15)
-(v0.75)___________
-Texture pass
+(Updated 8-10-15)
+(v0.8)___________
+
 KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 KerbalStuff download link: http://kerbalstuff.com/mod/1000
 
@@ -35,6 +35,12 @@ CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley (KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515) has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, Asclouds.cfg, ASC_ScienceDefs.cfg, Superplane.craft, celesbod.cfg, and associated images (swirly.png, BiomeMap.png, Height.png, KruelBiome.png, bumpMap.png, Color.png, Normals.png). This work is published from: United States. 
 
 ____________________________________________________________________________________________
+(0.8)___
+(8-10-15)
+Added Research Bodies support.
+Added Final Frontier ribbons.
+Added PlanetShine support.
+
 (0.75)____
 (8-8-15)
 Added clouds texture
