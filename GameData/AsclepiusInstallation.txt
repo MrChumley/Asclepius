@@ -1,5 +1,5 @@
 (Updated 7-30-15)
-(v0.4)___________
+(v0.8)___________
 Asclepius Planet addon for KSP.
 KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 KerbalStuff download link: http://kerbalstuff.com/mod/1000
@@ -7,13 +7,16 @@ KerbalStuff download link: http://kerbalstuff.com/mod/1000
 To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program (1.0.4) simply copy the contents of this folder into your KSP/GameData folder.
 
 
-Kopernicus (0.2.3) and module manager (2.6.6) .dll's are required, and included for convenience. Add/update if you don't already have them. Shared under GNU LESSER GENERAL PUBLIC LICENSE Version 3, and CC share-alike licenses respectively. See included documents for additional licensing information.
+Kopernicus (0.2.4) and module manager (2.6.6) .dll's are required, and included for convenience. Add/update if you don't already have them. Shared under GNU LESSER GENERAL PUBLIC LICENSE Version 3, and CC share-alike licenses respectively. See included documents for additional licensing information.
 
 Also supports (not included):
 
 E.V.E. Clouds: http://forum.kerbalspaceprogram.com/threads/55905 (add clouds/sandstorms to Asclepius)
 Contract Configurator: http://forum.kerbalspaceprogram.com/threads/101604 
 Distant Object Enhancement: http://kerbalstuff.com/mod/403  http://forum.kerbalspaceprogram.com/threads/98943
+ReasearchBodies: http://forum.kerbalspaceprogram.com/threads/127533
+Final Frontier: http://forum.kerbalspaceprogram.com/threads/67246
+PlanetShine: http://forum.kerbalspaceprogram.com/threads/96497
 
 _________________________________________________________________________________________
 
@@ -34,9 +37,35 @@ CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley (KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515) has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, Asclouds.cfg, ASC_ScienceDefs.cfg, Superplane.craft, celesbod.cfg, and associated images (swirly.png, BiomeMap.png, Height.png, KruelBiome.png, bumpMap.png, Color.png, Normals.png). This work is published from: United States. 
 
 ____________________________________________________________________________________________
+Changelog:
+(0.8)____
+Moved cache files to Asclepius/Cache Folder
+Added "Flat spot" to gooba flats.
+Added Cloud Textures
+Added Research Bodies support. 
+Added Final Frontier ribbons. 
+Added PlanetShine support.
+
+(0.7)_____
+Fixed "splashed" science definitions.
+Reduced normal map size (still looks great, but uses less memory!)
+"unbundled" Contract Configurator, E.V.E. Clouds, and distant object enhancement in Kerbalstuff download.
+
+(0.6)_______
+Texture pass
+Updated Kopernicus to 0.2.4
+Bundled with: Contract Configurator, E.V.E. clouds, and Distant object enhancement. (licenses included)
+
+(0.5)_________
+(8-1-15)
+Added New_Horizons compatibility patch
+Added DMagic science definitions
+Updated contract configurator contracts
+Changed Mean anomaly of Asclepius (now 120 days until first Asclepius transfer window instead of 2 years)
+Reduced scatter density on Asclepius (Even More FPS!)
 
 (v0.4)___________
-Changelog:
+
 (7-30-15) 
 Finished FULL CUSTOM science definitions for Kruel.
 Lowered atmosphere ceiling from 55km to 22km.
