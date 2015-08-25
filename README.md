@@ -37,6 +37,7 @@ To the extent possible under law, MrChumley (KSP forum thread: http://forum.kerb
 ____________________________________________________________________________________________
 (0.8)___
 (8-10-15)
+Added flat spot to Gooba Flats.
 Added Research Bodies support.
 Added Final Frontier ribbons.
 Added PlanetShine support.
