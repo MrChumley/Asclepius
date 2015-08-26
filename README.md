@@ -8,7 +8,7 @@ KerbalStuff download link: http://kerbalstuff.com/mod/1000
 To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program (1.0.4) simply copy the contents of this folder into your KSP/GameData folder.
 
 
-Kopernicus (0.2.3) and module manager (2.6.6) .dll's are required, and included for convenience. Add/update if you don't already have them. Shared under GNU LESSER GENERAL PUBLIC LICENSE Version 3, and CC share-alike licenses respectively. See included documents for additional licensing information.
+Kopernicus (0.2.3) and module manager (2.6.6) .dll's are required. Add/update if you don't already have them. 
 
 Also supports (not included):
 
@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 
 CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
-To the extent possible under law, MrChumley (KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515) has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, Asclouds.cfg, ASC_ScienceDefs.cfg, Superplane.craft, celesbod.cfg, and associated images (swirly.png, BiomeMap.png, Height.png, KruelBiome.png, bumpMap.png, Color.png, Normals.png). This work is published from: United States. 
+To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, Asclouds.cfg, ASC ScienceDefs.cfg, Superplane.craft, celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
 
 ____________________________________________________________________________________________
 (0.85)___
