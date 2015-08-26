@@ -18,7 +18,7 @@ Distant Object Enhancement: http://kerbalstuff.com/mod/403  http://forum.kerbals
 DMagic Orbital Science:  http://forum.kerbalspaceprogram.com/threads/64972  
 New Hoizons (cambatibility patch included): http://forum.kerbalspaceprogram.com/threads/114092  
 Final Frontier (ribbons, and compatibility patch included): http://forum.kerbalspaceprogram.com/threads/67246  
-Research Bodies (compatibility patch included): http://forum.kerbalspaceprogram.com/threads/127533
+Research Bodies (compatibility patch included): http://forum.kerbalspaceprogram.com/threads/127533  
 Planetshine (campatibility patch included): http://forum.kerbalspaceprogram.com/threads/96497
 
 _________________________________________________________________________________________
