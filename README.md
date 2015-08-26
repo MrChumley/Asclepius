@@ -12,9 +12,14 @@ Kopernicus (0.2.3) and module manager (2.6.6) .dll's are required. Add/update if
 
 Also supports (not included):
 
-E.V.E. Clouds: http://forum.kerbalspaceprogram.com/threads/55905 (add clouds/sandstorms to Asclepius)
-Contract Configurator: http://forum.kerbalspaceprogram.com/threads/101604 
-Distant Object Enhancement: http://kerbalstuff.com/mod/403  http://forum.kerbalspaceprogram.com/threads/98943
+E.V.E. Clouds (7-4): http://forum.kerbalspaceprogram.com/threads/55905 (add clouds/sandstorms to Asclepius)  
+Contract Configurator: http://forum.kerbalspaceprogram.com/threads/101604   
+Distant Object Enhancement: http://kerbalstuff.com/mod/403  http://forum.kerbalspaceprogram.com/threads/98943  
+DMagic Orbital Science:  http://forum.kerbalspaceprogram.com/threads/64972  
+New Hoizons (cambatibility patch included): http://forum.kerbalspaceprogram.com/threads/114092  
+Final Frontier (ribbons, and compatibility patch included): http://forum.kerbalspaceprogram.com/threads/67246  
+Research Bodies (compatibility patch included): http://forum.kerbalspaceprogram.com/threads/127533
+Planetshine (campatibility patch included): http://forum.kerbalspaceprogram.com/threads/96497
 
 _________________________________________________________________________________________
 
