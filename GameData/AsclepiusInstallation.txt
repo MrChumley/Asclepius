@@ -1,5 +1,5 @@
 (Updated 8-25-15)
-(v0.85)__________Asclepius Planet addon for KSP.________
+(v0.88)__________Asclepius Planet addon for KSP.________
 
 KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 KerbalStuff download link: http://kerbalstuff.com/mod/1000
@@ -38,6 +38,9 @@ To the extent possible under law, MrChumley (KSP forum thread: http://forum.kerb
 
 ___________________________________________________________________________________________
 Changelog:
+(0.88)___
+"Unflipped" new .dds textures
+
 (0.85)___
 Updated Kopernicus, and ModuleManager
 Small changes to contracts. (Kessel run now only completes 5 times, instead of infinitely.)
