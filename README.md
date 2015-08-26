@@ -40,32 +40,37 @@ CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, Asclouds.cfg, ASC ScienceDefs.cfg, Superplane.craft, celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
 
 ____________________________________________________________________________________________
-(0.85)___
+(v0.88)___
+(8-25-15)
+Flipped .dds images vertically
+
+(v0.85)___
+(8-25-15)
 Textures converted into .dds format
 
-(0.8)___
+(v0.8)___
 (8-10-15)
 Added flat spot to Gooba Flats.
 Added Research Bodies support.
 Added Final Frontier ribbons.
 Added PlanetShine support.
 
-(0.75)____
+(v0.75)____
 (8-8-15)
 Added clouds texture
 
-(0.7)_____
+(v0.7)_____
 (8-7-15)
 Fixed "splashed" science definitions.
 Reduced normal map size (still looks great, but uses less memory!)
 "unbundled" Contract Configurator, E.V.E. Clouds, and distant object enhancement in Kerbalstuff download.
 
-(0.6)_______
+(v0.6)_______
 Texture pass
 Updated Kopernicus to 0.2.4
 Bundled with: Contract Configurator, E.V.E. clouds, and Distant object enhancement. (licenses included)
 
-(0.5)_________
+(v0.5)_________
 (8-1-15)
 Added New_Horizons compatibility patch
 Added DMagic science definitions
