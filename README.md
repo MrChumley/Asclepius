@@ -1,6 +1,6 @@
 #Asclepius
 (Updated 8-25-15)
-(v0.85)___________
+(v0.88)___________
 
 KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 KerbalStuff download link: http://kerbalstuff.com/mod/1000
