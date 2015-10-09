@@ -1,6 +1,6 @@
 #Asclepius
 (Updated 10-9-15)
-(v1.0)___________
+(v1.1)___________
 
 KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 KerbalStuff download link: http://kerbalstuff.com/mod/1000
@@ -40,6 +40,10 @@ CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, Asclouds.cfg, ASC ScienceDefs.cfg, Superplane.craft, celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
 
 ____________________________________________________________________________________________
+(v1.1)
+(10-9-15)
+Reworked Ocean for kopernicus 0.4-beta compatibility, AND SMOOTH FPS! (really fixed this time!)
+
 (v1.0)
 (10-9-15)
 Renamed ocean to AsclepiusOcean for Kopernicus 0.4 compatibility
