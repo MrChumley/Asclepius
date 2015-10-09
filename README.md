@@ -1,6 +1,6 @@
 #Asclepius
-(Updated 8-25-15)
-(v0.88)___________
+(Updated 10-9-15)
+(v1.0)___________
 
 KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 KerbalStuff download link: http://kerbalstuff.com/mod/1000
@@ -8,7 +8,7 @@ KerbalStuff download link: http://kerbalstuff.com/mod/1000
 To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program (1.0.4) simply copy the contents of this folder into your KSP/GameData folder.
 
 
-Kopernicus (0.2.3) and module manager (2.6.6) .dll's are required. Add/update if you don't already have them. 
+Kopernicus (0.4) and module manager (2.6.8) .dll's are required. Add/update if you don't already have them. 
 
 Also supports (not included):
 
@@ -40,6 +40,10 @@ CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, Asclouds.cfg, ASC ScienceDefs.cfg, Superplane.craft, celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
 
 ____________________________________________________________________________________________
+(v1.0)
+(10-9-15)
+Renamed ocean to AsclepiusOcean for Kopernicus 0.4 compatibility
+
 (v0.88)___
 (8-25-15)
 Flipped .dds images vertically
