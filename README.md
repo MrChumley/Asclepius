@@ -6,7 +6,7 @@ Asclepius KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 KerbalStuff download link: http://kerbalstuff.com/mod/1000  
   
   
-  INSTALLATION INSTRUCTIONS:
+  INSTALLATION INSTRUCTIONS:  
 To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program (1.0.4):  
   
 1) Copy the Asclepius folder into your KSP/GameData folder.  
