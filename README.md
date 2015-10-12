@@ -18,7 +18,6 @@ The BoulderCo folder contains a cloud texture used by Asclepius. Place BoulderCO
 The ContractPacks folder contains customised Contracts for use with the Contract Configurater mod.   Place ContractPacks folder into KSP/GameData folder if you are using Contract Configurator mod(not included, see links below)  
   
   
-Kopernicus (0.4) and module manager (2.6.8) .dll's are required! Add/update if you don't already have them. 
    
    
     
