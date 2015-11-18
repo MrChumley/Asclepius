@@ -1,6 +1,6 @@
 #Asclepius
-(Updated 10-9-15)  
-(v1.1)___________  
+(Updated 11-18-15)  
+(v1.2)___________  
   
 Asclepius KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515  
 KerbalStuff download link: http://kerbalstuff.com/mod/1000  
@@ -11,7 +11,7 @@ To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program (1.0.4
   
 1) Copy the Asclepius folder into your KSP/GameData folder.  
   
-2)Kopernicus (0.4) and module manager (2.6.8) .dll's are required! Add/update if you don't already have them. 
+2)Kopernicus (0.5) and module manager .dll's are required! Add/update if you don't already have them. 
   
 3) OPTIONAL:
 The BoulderCo folder contains a cloud texture used by Asclepius. Place BoulderCO folder into KSP/GameData folder  if you are using E.V.E. clouds mod (not included, see links below)  
@@ -51,6 +51,10 @@ CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, Asclouds.cfg, ASC ScienceDefs.cfg, Superplane.craft, celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.  
   
 ____________________________________________________________________________________________
+
+(11-18-15)
+Removed Landclasses for Kopernicus 0.5 compatibility
+
 (v1.1)  
 (10-9-15)  
 Reworked Ocean for kopernicus 0.4-beta compatibility, AND SMOOTH FPS! (really fixed this time!)  
