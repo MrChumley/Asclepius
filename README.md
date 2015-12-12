@@ -1,6 +1,6 @@
 #Asclepius
-(Updated 11-18-15)  
-(v1.2)___________  
+(Updated 12-11-15)  
+(v1.4)___________  
   
 Asclepius KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515  
 KerbalStuff download link: http://kerbalstuff.com/mod/1000  
@@ -11,10 +11,10 @@ To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program (1.0.4
   
 1) Copy the Asclepius folder into your KSP/GameData folder.  
   
-2)Kopernicus (0.5) and module manager .dll's are required! Add/update if you don't already have them. 
+2)Kopernicus (0.5.2) and ModuleManager .dll's are required! Add/update if you don't already have them. 
   
 3) OPTIONAL:
-The BoulderCo folder contains a cloud texture used by Asclepius. Place BoulderCO folder into KSP/GameData folder  if you are using E.V.E. clouds mod (not included, see links below)  
+The BoulderCo folder contains a cloud textures used by Asclepius with EVE [1-05-4] (overhaul). Place BoulderCO folder into KSP/GameData folder  if you are using E.V.E. clouds mod (not included, see links below)  
 The ContractPacks folder contains customised Contracts for use with the Contract Configurater mod.   Place ContractPacks folder into KSP/GameData folder if you are using Contract Configurator mod(not included, see links below)  
   
   
@@ -23,7 +23,7 @@ The ContractPacks folder contains customised Contracts for use with the Contract
     
 Also supports (not included):  
   
-E.V.E. Clouds (7-4): http://forum.kerbalspaceprogram.com/threads/55905 (add clouds/sandstorms to Asclepius)  
+E.V.E. Clouds [1-05-4]: http://forum.kerbalspaceprogram.com/index.php?/topic/51142 (add clouds/sandstorms to Asclepius)  
 Contract Configurator: http://forum.kerbalspaceprogram.com/threads/101604   
 Distant Object Enhancement: http://kerbalstuff.com/mod/403  http://forum.kerbalspaceprogram.com/threads/98943  
 DMagic Orbital Science:  http://forum.kerbalspaceprogram.com/threads/64972  
