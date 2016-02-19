@@ -29,8 +29,6 @@ Planetshine (campatibility patch included): http://forum.kerbalspaceprogram.com/
 
 KSP forum thread for Asclepius: http://forum.kerbalspaceprogram.com/threads/126515
 
-Dropbox Dev link for Ascelpius: https://www.dropbox.com/sh/johrrxma98d36x5/AABGzBW4WRXylZxRRXU-oksua?dl=0
-
 Kopernicus KSP forum thread: http://forum.kerbalspaceprogram.com/threads/114649
 
 Module Manager KSP forum thread: http://forum.kerbalspaceprogram.com/threads/55219
