@@ -1,7 +1,7 @@
-Asclepius for KSP 1.0.5
-REQUIRES Kopernicus 1.5.2 and ModuleManager!
-(Updated 12-11-15)
-(v1.4)___________
+Asclepius for KSP 1.0.5  
+REQUIRES Kopernicus and ModuleManager!  
+(Updated 2-19-16)  
+(v1.5)___________  
 
 Asclepius KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 
@@ -36,9 +36,12 @@ Module Manager KSP forum thread: http://forum.kerbalspaceprogram.com/threads/552
 CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, NEWAsclouds.cfg, ASC ScienceDefs.cfg, Superplane.craft, celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
 
+(v1.5)  
+(2-19-15)  
+remove flightGlobalsIndex  
+
 (v1.4)
 (12-11-15)
-Re-added "Highwater" marks
 Updated BoulderCo folder to be compatible with the new EVE [1-05-4]
 
 (11-18-15) Removed Landclasses for Kopernicus 0.5 compatibility
