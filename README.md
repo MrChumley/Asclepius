@@ -11,7 +11,7 @@ To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program (1.0.5
 
 1) Copy the Asclepius folder into your KSP/GameData folder.
 
-2)Kopernicus (0.5.2) and ModuleManager .dll's are required! Add/update if you don't already have them.
+2)Kopernicus and ModuleManager .dll's are required! Add/update if you don't already have them.
 
 3) OPTIONAL: The BoulderCo folder contains a cloud textures used by Asclepius with EVE (1-05-4.) Place BoulderCO folder into KSP/GameData folder if you are using E.V.E. clouds mod (not included, see links below)
 The ContractPacks folder contains customised Contracts for use with the Contract Configurater mod. Place ContractPacks folder into KSP/GameData folder if you are using Contract Configurator mod(not included, see links below)
