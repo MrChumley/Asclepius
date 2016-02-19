@@ -4,7 +4,7 @@ REQUIRES Kopernicus 1.5.2 and ModuleManager!
 (v1.4)___________
 
 Asclepius KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
-KerbalStuff download link: http://kerbalstuff.com/mod/1000
+
 
 INSTALLATION INSTRUCTIONS:
 To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program (1.0.5):
