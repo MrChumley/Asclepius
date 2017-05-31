@@ -1,19 +1,19 @@
-Asclepius for KSP 1.0.5  
+Asclepius for KSP 1.3 
 REQUIRES Kopernicus and ModuleManager!  
-(Updated 2-19-16)  
-(v1.5)___________  
+(Updated 5-31-17)  
+(v1.3)___________  
 
 Asclepius KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
 
 
 INSTALLATION INSTRUCTIONS:
-To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program (1.0.5):
+To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program:
 
 1) Copy the Asclepius folder into your KSP/GameData folder.
 
 2)Kopernicus and ModuleManager .dll's are required! Add/update if you don't already have them.
 
-3) OPTIONAL: The BoulderCo folder contains a cloud textures used by Asclepius with EVE (1-05-4.) Place BoulderCO folder into KSP/GameData folder if you are using E.V.E. clouds mod (not included, see links below)
+3) OPTIONAL: 
 The ContractPacks folder contains customised Contracts for use with the Contract Configurater mod. Place ContractPacks folder into KSP/GameData folder if you are using Contract Configurator mod(not included, see links below)
 
 Also supports (not included):
@@ -35,6 +35,10 @@ Module Manager KSP forum thread: http://forum.kerbalspaceprogram.com/threads/552
 
 CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, NEWAsclouds.cfg, ASC ScienceDefs.cfg, Superplane.craft, celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
+
+(v1.3)
+(5-31-17)
+Landcontrol, and PQS refinements.
 
 (v1.5)  
 (2-19-15)  
