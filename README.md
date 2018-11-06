@@ -1,24 +1,30 @@
-Asclepius for KSP 1.3 
+Asclepius - a kopernicus planet - SSTO playground
+For Kerbal Space Program
+Asclepius (v5.0) for KSP 1.5 
 REQUIRES Kopernicus and ModuleManager!  
-(Updated 5-31-17)  
-(v1.3)___________  
+(Updated 11-5-2018)  
+______for KSP (v1.5)___________  
 
-Asclepius KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
+Asclepius Github: http://github.com/MrChumley/Asclepius
 
 
 INSTALLATION INSTRUCTIONS:
 To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program:
 
-1) Copy the Asclepius folder into your KSP/GameData folder.
+1)Copy the Asclepius folder into your KSP/GameData folder.
 
-2)Kopernicus and ModuleManager .dll's are required! Add/update if you don't already have them.
+2)Download and Install Dependancies: Kopernicus AND ModuleManager
+Kopernicus KSP forum thread: http://forum.kerbalspaceprogram.com/threads/114649
+Module Manager KSP forum thread: http://forum.kerbalspaceprogram.com/threads/55219
 
-3) OPTIONAL: 
-The ContractPacks folder contains customised Contracts for use with the Contract Configurater mod. Place ContractPacks folder into KSP/GameData folder if you are using Contract Configurator mod(not included, see links below)
+3) OPTIONAL: install supported mods from list below
+
+4) Enjoy!
+
 
 Also supports (not included):
 
-E.V.E. Clouds [1-05-4]: http://forum.kerbalspaceprogram.com/index.php?/topic/51142 (add clouds/sandstorms to Asclepius)
+E.V.E. Clouds: http://forum.kerbalspaceprogram.com/index.php?/topic/149733
 Contract Configurator: http://forum.kerbalspaceprogram.com/threads/101604
 Distant Object Enhancement: http://kerbalstuff.com/mod/403 http://forum.kerbalspaceprogram.com/threads/98943
 DMagic Orbital Science: http://forum.kerbalspaceprogram.com/threads/64972
@@ -34,7 +40,17 @@ Kopernicus KSP forum thread: http://forum.kerbalspaceprogram.com/threads/114649
 Module Manager KSP forum thread: http://forum.kerbalspaceprogram.com/threads/55219
 
 CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
-To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to Asclepius.cfg, Kruel.cfg, NEWAsclouds.cfg, ASC ScienceDefs.cfg, Superplane.craft, celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
+To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to "Asclepius" including Asclepius.cfg, Kruel.cfg, ASCclouds.cfg, ASCshadows, ASC ScienceDefs.cfg, AscNewHorizPatch.cfg, ASC_Planetshine.cfg,  celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
+
+(v5.0)
+(11-5-2018)
+Localization update for science files
+Various cfg updates
+Kruel reworked
+
+(v3.0)
+(8-23-17)
+Terrain updates for new kopernicus (v1.3.0-5), and updates for EVE clouds and shadows.
 
 (v1.3)
 (5-31-17)
