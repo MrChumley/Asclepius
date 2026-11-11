@@ -1,11 +1,16 @@
 Asclepius - a kopernicus planet - SSTO playground
 For Kerbal Space Program
-Asclepius (v4.0) for KSP 1.4.x 
-REQUIRES Kopernicus and ModuleManager!  
-(Updated 8-27-2018)  
-______for KSP (v1.4.x)___________  
+Asclepius (v5.1.0) for KSP 1.12.x
+REQUIRES Kopernicus and ModuleManager!
+(Updated 11-10-2026)
+______for KSP (v1.12.x)___________
 
-Asclepius KSP forum thread: http://forum.kerbalspaceprogram.com/threads/126515
+This update targets Kerbal Space Program 1.12.x with current Kopernicus
+(https://github.com/Kopernicus/Kopernicus, maintained by R-T-B)
+and Module Manager (https://github.com/sarbian/ModuleManager).
+
+Asclepius Github: https://github.com/MrChumley/Asclepius
+KSP forum thread for Asclepius: https://forum.kerbalspaceprogram.com/topic/113949-15x-asclepius-a-kopernicus-planet-ssto-playground/
 
 
 INSTALLATION INSTRUCTIONS:
@@ -14,33 +19,43 @@ To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program:
 1)Copy the Asclepius folder into your KSP/GameData folder.
 
 2)Download and Install Dependancies: Kopernicus AND ModuleManager
-Kopernicus KSP forum thread: http://forum.kerbalspaceprogram.com/threads/114649
-Module Manager KSP forum thread: http://forum.kerbalspaceprogram.com/threads/55219
+Kopernicus: https://github.com/Kopernicus/Kopernicus
+Kopernicus KSP forum thread: https://forum.kerbalspaceprogram.com/topic/200143-112x-kopernicus-stable-branch-last-updated-february-25th-2026/
+Module Manager: https://github.com/sarbian/ModuleManager
+Module Manager KSP forum thread: https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/
 
 3) OPTIONAL: install supported mods from list below
+The optional compatibility patches (New Horizons, Research Bodies, Planetshine, Final Frontier, DMagic, EVE clouds) are unverified on KSP 1.12.
 
 4) Enjoy!
 
 
 Also supports (not included):
 
-E.V.E. Clouds [1.2.2-1]: http://forum.kerbalspaceprogram.com/index.php?/topic/149733
-Contract Configurator: http://forum.kerbalspaceprogram.com/threads/101604
-Distant Object Enhancement: http://kerbalstuff.com/mod/403 http://forum.kerbalspaceprogram.com/threads/98943
-DMagic Orbital Science: http://forum.kerbalspaceprogram.com/threads/64972
-New Hoizons (cambatibility patch included): http://forum.kerbalspaceprogram.com/threads/114092
-Final Frontier (ribbons, and compatibility patch included): http://forum.kerbalspaceprogram.com/threads/67246
-Research Bodies (compatibility patch included): http://forum.kerbalspaceprogram.com/threads/127533
-Planetshine (campatibility patch included): http://forum.kerbalspaceprogram.com/threads/96497
+E.V.E. Clouds / EVE-Redux: https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022
+Contract Configurator: https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05
+Distant Object Enhancement: https://forum.kerbalspaceprogram.com/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-21116-2024-0428/
+DMagic Orbital Science: https://forum.kerbalspaceprogram.com/topic/59009-18x-dmagic-orbital-science-new-science-parts-v143-1122019
+New Horizons (compatibility patch included): https://forum.kerbalspaceprogram.com/topic/102776-13-kopernicus-new-horizons-v201-2jun17-its-back/
+Final Frontier (ribbons, and compatibility patch included): https://forum.kerbalspaceprogram.com/topic/61065-1100-final-frontier-kerbal-individual-merits-1100-3485/
+Research Bodies (compatibility patch included): https://forum.kerbalspaceprogram.com/topic/139473-112x-researchbodies-v1130-15th-may-2022
+Planetshine (compatibility patch included): https://forum.kerbalspaceprogram.com/topic/173138-112x-planetshine-0266-feb-22-2022
 
-KSP forum thread for Asclepius: http://forum.kerbalspaceprogram.com/threads/126515
+KSP forum thread for Asclepius: https://forum.kerbalspaceprogram.com/topic/113949-15x-asclepius-a-kopernicus-planet-ssto-playground/
 
-Kopernicus KSP forum thread: http://forum.kerbalspaceprogram.com/threads/114649
+Kopernicus: https://github.com/Kopernicus/Kopernicus
+Kopernicus KSP forum thread: https://forum.kerbalspaceprogram.com/topic/200143-112x-kopernicus-stable-branch-last-updated-february-25th-2026/
 
-Module Manager KSP forum thread: http://forum.kerbalspaceprogram.com/threads/55219
+Module Manager: https://github.com/sarbian/ModuleManager
+Module Manager KSP forum thread: https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/
 
 CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
 To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to "Asclepius" including Asclepius.cfg, Kruel.cfg, ASCclouds.cfg, ASCshadows, ASC ScienceDefs.cfg, AscNewHorizPatch.cfg, ASC_Planetshine.cfg,  celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
+
+(v5.1.0)
+(11-10-2026)
+KSP 1.12.x update: removed stale Kopernicus cache files, merged duplicate PQS Material blocks, added a KSP-AVC .version file, and updated documentation links.
+The optional compatibility patches and EVE clouds config are unchanged and unverified on 1.12.
 
 (v4.0)
 Kruel overhaul.
@@ -118,7 +133,7 @@ Fixed spelling mistakes.
 
 (v0.3)_____________
 (7-27-15)
-New Contract Configurator contracts - Contract Configurator: http://forum.kerbalspaceprogram.com/threads/101604
+New Contract Configurator contracts - Contract Configurator: https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05
 Kessler Run - Set a new record for Canyon flight!
 Rescue - Fly a spaceplane home from the surface of Asclepius!
 Find a derelict Mining vessel, and attempt salvage!

@@ -1,0 +1,25 @@
+{
+    "NAME": "Asclepius",
+    "URL": "https://raw.githubusercontent.com/MrChumley/Asclepius/master/GameData/Asclepius/Asclepius.version",
+    "DOWNLOAD": "https://github.com/MrChumley/Asclepius",
+    "VERSION": {
+        "MAJOR": 5,
+        "MINOR": 1,
+        "PATCH": 0
+    },
+    "KSP_VERSION": {
+        "MAJOR": 1,
+        "MINOR": 12,
+        "PATCH": 5
+    },
+    "KSP_VERSION_MIN": {
+        "MAJOR": 1,
+        "MINOR": 12,
+        "PATCH": 0
+    },
+    "KSP_VERSION_MAX": {
+        "MAJOR": 1,
+        "MINOR": 12,
+        "PATCH": 99
+    }
+}
