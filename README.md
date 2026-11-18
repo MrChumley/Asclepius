@@ -2,37 +2,53 @@ Asclepius - a kopernicus planet - SSTO playground
 For Kerbal Space Program
 Asclepius (v5.1.0) for KSP 1.12.x
 REQUIRES Kopernicus and ModuleManager!
-(Updated 11-10-2026)
-______for KSP (v1.12.x)___________
-
-This update targets Kerbal Space Program 1.12.x with current Kopernicus
-(https://github.com/Kopernicus/Kopernicus, maintained by R-T-B)
-and Module Manager (https://github.com/sarbian/ModuleManager).
+(Updated 11-17-2026)
 
 Asclepius Github: https://github.com/MrChumley/Asclepius
+This build lives on the ksp-1.12 branch: https://github.com/MrChumley/Asclepius/tree/ksp-1.12
 KSP forum thread for Asclepius: https://forum.kerbalspaceprogram.com/topic/113949-15x-asclepius-a-kopernicus-planet-ssto-playground/
 
+## KSP 1.12 build (ksp-1.12 branch)
 
-INSTALLATION INSTRUCTIONS:
-To add the planet Asclepius (and it's moon Kruel) to Kerbal Space Program:
+This is the KSP 1.12 build of Asclepius and its moon Kruel. The `master` branch is still the older release.
 
-1)Copy the Asclepius folder into your KSP/GameData folder.
+What's new on this branch:
+- Support for Kerbal Space Program 1.12.x and current Kopernicus
+- Cliff texture fix (`steepBumpMap` now uses the built-in `brown_cliff` texture)
+- Kruel's Mount Kurley white biome restored
+- Asclepian sandstorms are back, as Blackrack V5 raymarched volumetric clouds via EVE-Redux
+- A Scatterer atmosphere for Asclepius
+- Kruel eclipse shadows
 
-2)Download and Install Dependancies: Kopernicus AND ModuleManager
-Kopernicus: https://github.com/Kopernicus/Kopernicus
-Kopernicus KSP forum thread: https://forum.kerbalspaceprogram.com/topic/200143-112x-kopernicus-stable-branch-last-updated-february-25th-2026/
-Module Manager: https://github.com/sarbian/ModuleManager
-Module Manager KSP forum thread: https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/
+### Requirements
 
-3) OPTIONAL: install supported mods from list below
-The optional compatibility patches (New Horizons, Research Bodies, Planetshine, Final Frontier, DMagic, EVE clouds) are unverified on KSP 1.12.
+Required:
+- Kerbal Space Program 1.12.x
+- Kopernicus for KSP 1.12.x (https://github.com/Kopernicus/Kopernicus, maintained by R-T-B), including the ModularFlightIntegrator and Harmony packages it ships with
+- Module Manager (https://github.com/sarbian/ModuleManager)
 
-4) Enjoy!
+This repo does not pin a specific Kopernicus version. Use a current Kopernicus release made for KSP 1.12.x.
 
+Optional visuals (not included in this repo):
+- Blackrack's True Volumetric Clouds V5 (paid, via his Patreon). V5 bundles EVE-Redux 3.2.2.0 and Scatterer 0.908. Do not also install CKAN EVE or Scatterer alongside the V5 pack.
+- Deferred 1.3.5.0, which requires Shabby (https://github.com/KSPModdingLibs/Shabby)
 
-Also supports (not included):
+This repo contains only our configs and assets. None of Blackrack's paid files are included. You need your own V5 pack to see the volumetric sandstorm.
 
-E.V.E. Clouds / EVE-Redux: https://forum.kerbalspaceprogram.com/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022
+The planet and moon still work without the visual packs. The sandstorm and eclipse-shadow configs (`ASCclouds.cfg`, `ASCshadows.cfg`) only apply if Environmental Visual Enhancements is installed (`:NEEDS[EnvironmentalVisualEnhancements]`). The Scatterer atmosphere (`ASC_Scatterer.cfg`) only applies if Scatterer is installed (`:NEEDS[Scatterer]`).
+
+### Install
+
+1. Copy the `GameData/Asclepius` folder into your `KSP/GameData` folder.
+2. Install Kopernicus (with ModularFlightIntegrator and Harmony) and Module Manager.
+3. Optional: install Blackrack's True Volumetric Clouds V5, plus Deferred and Shabby, as listed above.
+
+Tested in KSP 1.12.5 on 2026-11-17, including a landing through the sandstorm.
+
+## Other optional mods (not included)
+
+These compatibility patches are included, but most have not been re-verified on KSP 1.12 yet (the V5 sandstorm and Scatterer atmosphere above have been tested):
+
 Contract Configurator: https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05
 Distant Object Enhancement: https://forum.kerbalspaceprogram.com/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-21116-2024-0428/
 DMagic Orbital Science: https://forum.kerbalspaceprogram.com/topic/59009-18x-dmagic-orbital-science-new-science-parts-v143-1122019
@@ -41,8 +57,6 @@ Final Frontier (ribbons, and compatibility patch included): https://forum.kerbal
 Research Bodies (compatibility patch included): https://forum.kerbalspaceprogram.com/topic/139473-112x-researchbodies-v1130-15th-may-2022
 Planetshine (compatibility patch included): https://forum.kerbalspaceprogram.com/topic/173138-112x-planetshine-0266-feb-22-2022
 
-KSP forum thread for Asclepius: https://forum.kerbalspaceprogram.com/topic/113949-15x-asclepius-a-kopernicus-planet-ssto-playground/
-
 Kopernicus: https://github.com/Kopernicus/Kopernicus
 Kopernicus KSP forum thread: https://forum.kerbalspaceprogram.com/topic/200143-112x-kopernicus-stable-branch-last-updated-february-25th-2026/
 
@@ -50,7 +64,12 @@ Module Manager: https://github.com/sarbian/ModuleManager
 Module Manager KSP forum thread: https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/
 
 CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/
-To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to "Asclepius" including Asclepius.cfg, Kruel.cfg, ASCclouds.cfg, ASCshadows, ASC ScienceDefs.cfg, AscNewHorizPatch.cfg, ASC_Planetshine.cfg,  celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
+To the extent possible under law, MrChumley has waived all copyright and related or neighboring rights to "Asclepius" including Asclepius.cfg, Kruel.cfg, ASCclouds.cfg, ASCshadows, ASC_Scatterer.cfg, ASC ScienceDefs.cfg, AscNewHorizPatch.cfg, ASC_Planetshine.cfg,  celesbod.cfg, Asc DMagicDefs.cfg, ASC_ResearchBodies.cfg, CelestialBodies.info, and associated images. This work is published from: United States.
+
+(ksp-1.12 branch)
+(11-17-2026)
+KSP 1.12 build docs: listed V5 volumetric sandstorm, Scatterer atmosphere, Deferred/Shabby, and install requirements. Cliff texture fix and Mount Kurley's white biome are included on this branch.
+The planet was play-tested in KSP 1.12.5 with a landing through the sandstorm.
 
 (v5.1.0)
 (11-10-2026)
