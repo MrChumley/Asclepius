@@ -1,7 +1,11 @@
 {
     "NAME": "Asclepius",
-    "URL": "https://raw.githubusercontent.com/MrChumley/Asclepius/master/GameData/Asclepius/Asclepius.version",
-    "DOWNLOAD": "https://github.com/MrChumley/Asclepius",
+    "URL": "https://raw.githubusercontent.com/MrChumley/Asclepius/ksp-1.12/GameData/Asclepius/Asclepius.version",
+    "DOWNLOAD": "https://github.com/MrChumley/Asclepius/releases",
+    "GITHUB": {
+        "USERNAME": "MrChumley",
+        "REPOSITORY": "Asclepius"
+    },
     "VERSION": {
         "MAJOR": 5,
         "MINOR": 1,
