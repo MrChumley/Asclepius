@@ -10,7 +10,7 @@ KSP forum thread for Asclepius: https://forum.kerbalspaceprogram.com/topic/11394
 
 ## KSP 1.12 build (ksp-1.12 branch)
 
-This is the KSP 1.12 build of Asclepius and its moon Kruel. The `master` branch is still the older release.
+This is the KSP 1.12 build of Asclepius and its moon Kruel. The [`master`](https://github.com/MrChumley/Asclepius/tree/master) branch is kept untouched as the original **legacy edition**, the 2015 Asclepius exactly as it was played, preserved on purpose for the thousands of hours that went into it.
 
 What's new on this branch:
 - Support for Kerbal Space Program 1.12.x and current Kopernicus
